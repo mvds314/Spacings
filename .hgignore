@@ -1,0 +1,12 @@
+syntax: glob
+
+#general stuff
+Thumbs.db
+*.log
+
+#Python stuff
+*.pyc
+*.pyo
+*.pyd
+__pycache__/*
+

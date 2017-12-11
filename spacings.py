@@ -510,5 +510,3 @@ if __name__ == '__main__':
         print(Zmp.icdf(mp.mpf('0.999999991'), method='interpolation'))
         print(Znp.icdf(0.999999991, method = 'solver'))
         print(Znp.icdf(0.999999991, method = 'interpolation'))
-
-#TODO: deze package uploaden naar github
